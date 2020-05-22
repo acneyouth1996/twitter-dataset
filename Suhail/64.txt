@@ -1,0 +1,1 @@
+Today, my friend told me about a bug in Mixpanel while using Mighty and then found a bug in Mighty while trying to report the bug. I've come full circle.

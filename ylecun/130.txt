@@ -1,0 +1,1 @@
+An SVM is a 2-layer NN in which each layer-1 unit compares the input to one of the training samples using the kernel function (hence layer-1 uses a trivial form of unsupervised learning: memorization!), and the 2nd layer computes a (trained) linear combination of their outputs.

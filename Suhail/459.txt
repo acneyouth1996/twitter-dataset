@@ -1,0 +1,1 @@
+Does that create behavior where folks are careful to commit only certain things on Thursday? I bet nobody wants to break the release. Btw, I like this. Helps you incrementally get to mainline = production release.

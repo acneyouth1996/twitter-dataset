@@ -1,0 +1,1 @@
+The docs are old, the dev ecosystem is StackOverflow, the APIs do not keep up with the browser’s evolution, the permission model is abhorrent for users, the customization in UI is severely handcuffed, and the toll on resource usage for computers bewilders users. Where is Google?

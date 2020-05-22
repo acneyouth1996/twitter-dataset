@@ -1,0 +1,1 @@
+Spatiotemporal consistency (or correlation) is precisely the property that is exploited by ConvNets. Not sure why you say it's "not taken into account in current DNN architectures". Also, lots of papers on exploiting temporal consistency in vision.

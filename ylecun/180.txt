@@ -1,0 +1,1 @@
+Yes I disagree. I tie DL to gradient-based optimization. Backprop (and similar methods) is a way to efficiently estimate gradients. If you use gradient-free methods, you are throwing this whole idea out the window. In some cases, it's the only option, but it's way less efficient.

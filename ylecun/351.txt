@@ -1,0 +1,1 @@
+PyTorch autograd was inspired by Chainer. Keras was copied on Torch7 (transcribed from Lua to Python). Torch7 was very much inspired by Lush (transcribed from Lisp to Lua). But every time, some new twists are added.

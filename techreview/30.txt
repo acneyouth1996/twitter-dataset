@@ -1,0 +1,1 @@
+Give this neural network a genre, an artist, and lyrics, and it will produce a passable song in the style of well-known performers, such as Katy Perry, Elvis Presley or Nas.

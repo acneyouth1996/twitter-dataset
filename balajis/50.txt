@@ -1,0 +1,1 @@
+Note that by making the knowledge graph an explicit input you can say “this claim is true given these premises”. Would be interesting to partition a knowledge graph into the constant stuff (eg value of pi) and the variable stuff which differs between different groups.

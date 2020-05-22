@@ -1,0 +1,1 @@
+There are papers and patents about gaze correction for video conference in the 1990s from Bell Labs. E.g. this 1994 patent: https://patents.google.com/patent/US5500671A/en The concept is definitely not new, though perhaps the method is.

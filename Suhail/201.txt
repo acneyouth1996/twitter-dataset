@@ -1,0 +1,1 @@
+Post product-market fit product strategy: - Double down on what works - Deprecate non-core features to reduce surface area - If it’s valuable, measure & optimize it - Remove your ego & copy great ideas if they help your users - Don’t get distracted by building net-new products

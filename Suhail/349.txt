@@ -1,0 +1,1 @@
+We went from a user feeling like scrolling felt like Chrome on Windows in Bootcamp to 8.5/10 smooth native macOS scrolling after 2-3 weeks. Squashing our two biggest issues amongst users. We still have a long road ahead but major progress!

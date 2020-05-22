@@ -1,0 +1,1 @@
+Yeah, I remember that too. Everyone was like "it will never work! There is no convergence bound! How do you know how many terms you need in the series? I'll stick with Taylor series!" Poor Joseph was close to a nervous breakdown. He stopped doing science for 10 years.

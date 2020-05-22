@@ -1,0 +1,1 @@
+So many people use Github has a form of public documentation where other people can edit or issue pull requests. Kind of like a wiki but not precisely. Is anyone working on an idea like this: Github meets Google docs?

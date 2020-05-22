@@ -1,0 +1,1 @@
+Not really - web APIs only took us so far initially. In order to get pixel-accurate scroll deltas we had to simulate the ticks on a virtual device using an X11 input device driver on Linux.

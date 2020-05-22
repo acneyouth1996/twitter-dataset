@@ -1,0 +1,1 @@
+If making progress were as simple as using Hebbian rule, we would have had intelligent machines since Hopfield nets. Show me a network trained with Hebbian learning that does something useful. (Not holding my breath)

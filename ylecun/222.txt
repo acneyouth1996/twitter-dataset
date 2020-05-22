@@ -1,0 +1,1 @@
+Jérôme is echoing the point I've been making for years in everyone of my talks: common sense and human-level AI will not emerge from supervised learning nor reinforcement learning. It will require a new learning paradigm, which I've called self-supervised learning.

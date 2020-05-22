@@ -1,0 +1,1 @@
+It's tricky to estimate reproduction numbers, especially when they have significant time-variation. But assuming @kevin's analysis is correct, we see that social distancing appears to have steadily reduced the effective reproduction number in most US states over the last 4 weeks.

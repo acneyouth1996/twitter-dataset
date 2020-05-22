@@ -1,0 +1,1 @@
+Things that are not DL: logistic regression, kernel methods, naïve Bayes, trees/forests, k-means, k-nn (because they don't learn representations). Highly non-differentiable model optimized through 0th order (gradient-free) method are not DL (though it may learn representations).

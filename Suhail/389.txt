@@ -1,0 +1,1 @@
+Fairly certain the answer to this for me is deeply learning about video encoding & writing the h264 algo from scratch or writing, researching a networking protocol that’s better for certain use-cases, or building an ASIC for no obvious commercial purpose. They all sound so fun.

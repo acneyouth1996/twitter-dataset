@@ -1,0 +1,1 @@
+In a way, there is more supervision than in traditional SL: the system learns to predict a high-dimensional signal (like a video segment), not merely a category among 1000. But the system must be able to deal with and represent uncertainty in the output. That's the hard part. 2/2

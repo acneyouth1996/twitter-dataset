@@ -1,0 +1,1 @@
+- To be "deep" the graph must have multiple non-linear stages from input to output. - This depth allows the system to learn internal representations. - This definition does not specify the learning paradigm (sup, unsup, reinforcement), nor the architecture, nor the objective. 2/2

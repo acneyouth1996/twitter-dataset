@@ -1,0 +1,1 @@
+Did you read the paper? There is absolutely no such claim. Everyone knows about syntax trees. The novelty of the paper is in training neural nets to do symbolic integration. Quoting a *truncated* sentence from the abstract to dismiss an entire paper is pretty ridiculous.

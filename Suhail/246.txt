@@ -1,0 +1,1 @@
+I am pretty impressed by the primitives of Media Source Extensions for audio decoding/playback—we’ve come a long way with browsers. The SourceBuffer API can be greatly improved so if there’s someone out there, I’ve got some feedback to hopefully make it great—I think.

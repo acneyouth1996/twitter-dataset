@@ -1,0 +1,1 @@
+Recent research shows that 0th-order optimization is merely horribly inefficient instead of ridiculously inefficient. Look, 0th-order is a last resort only when nothing else is applicable. I even had a paper on how to make it less horrible in NIPS 1988 http://papers.nips.cc/paper/122-gemini-gradient-estimation-through-matrix-inversion-after-noise-injection

@@ -1,0 +1,1 @@
+That's why DL will be with us for a long time. That's also why the question "what can't DL do?" has no answer (unless you add "today"). Much of the current limitations are limitations of supervised learning and RL. Not limitations of DL.

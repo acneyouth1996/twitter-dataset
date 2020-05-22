@@ -1,0 +1,1 @@
+> Solution is we all move to speaking in propositional logic Google search shows that you can take natural language and turn into queries of a knowledge graph with reasonable accuracy. Feels like we could apply that to each sentence, or factual claim. Maybe via Bing API.

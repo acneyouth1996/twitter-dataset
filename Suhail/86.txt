@@ -1,0 +1,1 @@
+It's similar to VDI for the streaming part. WebRTC is a broad set of features so you'd have to be specific about what we might / might not support. But, in general, we support a lot of WebRTC already. We don't have things like mic/webcam support yet though.

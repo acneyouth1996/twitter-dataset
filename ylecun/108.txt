@@ -1,0 +1,1 @@
+PolyGame: An open-source framework for training AI players through self-play. Deals with many games, board size variation, partial observability... Interesting generalization tidbit: It plays Go on 19x19 at very good level after training only on 13x13.

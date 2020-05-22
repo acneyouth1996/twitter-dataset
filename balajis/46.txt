@@ -1,0 +1,1 @@
+What part? Google has deployed a Knowledge Graph at scale for the last 8 years or so. They didn’t force pages to implement markup like the Semantic Web proponents envisioned, but instead auto-inferred relationships and curated databases of facts. https://en.wikipedia.org/wiki/Knowledge_Graph

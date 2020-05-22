@@ -1,0 +1,1 @@
+Right. But simply looking at the assertions in distilled form and generating parse trees for each sentence could be interesting. For example, you could filter out all adjectives & reduce an article to a “dehydrated” set of factual claims. Then check each against a triplestore.

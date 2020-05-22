@@ -1,0 +1,1 @@
+No. This is exponential growth. The curve, its 1st and 2nd derivatives are all proportional to each other. What matter is is the exponent. In these semi-log plots, the slope of each curve is the exponent, i.e. the coefficient by which the number of cases is multiplied every day.

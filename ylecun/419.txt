@@ -1,0 +1,1 @@
+Cool ICLR'19 paper with Mikael Henaff and Alfredo Canziani on learning predictive forward models and using them to learn driving policy with zero interaction with the real environment. No RL here: everything is differentiable. https://www.facebook.com/722677142/posts/10155726583767143/

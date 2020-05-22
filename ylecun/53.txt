@@ -1,0 +1,1 @@
+Yes. The Kelley-Bryson method (aka the adjoint state method) from 1962 is what we call backprop through time. But realizing that you could use this to train multilayer non-linear neural net, and actually making it work, didn't happen until the mid 1980s.

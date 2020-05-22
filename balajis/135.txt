@@ -1,0 +1,1 @@
+We know that >92% of US deaths and ~75% of hospitalizations are for people over age 50. But we need to know: - length of illness - self-reported severity - length of recovery - fullness of recovery ...for each confirmed case, for different demographic groups and by age.

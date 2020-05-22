@@ -1,0 +1,1 @@
+Dude, I remember debugging this: "Embarrassingly, I forgot a semicolon someplace in the Javascript function call! " with you almost the whole train ride there it felt like. I spilled out onto the sidewalk after the ride just to check that the data came in before the YC interview.

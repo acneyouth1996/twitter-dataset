@@ -1,0 +1,1 @@
+Congratulations to Leon Bottou (FAIR) and Olivier Bousquet (Google Brain - Zurich) for winning the NeurIPS 2018 Test of Time Award for their NIPS 2007 paper “The Trade-Offs of Large Scale Learning". Olivier's speech starts at -22 minutes. https://www.facebook.com/722677142/posts/10155659192557143/

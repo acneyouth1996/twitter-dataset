@@ -1,0 +1,1 @@
+How to train a model with 10^11 parameters without running out of GPU memory? Use DeepSpeed from Microsoft Research! It's PyTorch compatible. It partitions the network onto multiple processors automatically and efficiently.

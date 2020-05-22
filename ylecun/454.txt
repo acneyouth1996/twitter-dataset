@@ -1,0 +1,1 @@
+... but here we go again 1. Whatever we do, DL is part of the solution 2. Hence reasoning will need to be compatible with DL 3. That means using vectors instead of symbols, and differentiable functions instead of logic. 4. This will require new architectural concepts. 2/2

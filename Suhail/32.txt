@@ -1,0 +1,1 @@
+Great thought - the issue is that the UI / rendering is what takes up a lot of RAM and CPU causing the bloat we see client-side. In my opinion, the goal of browsers was precisely that: a thin way to access data remotely.

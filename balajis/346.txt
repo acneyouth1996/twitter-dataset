@@ -1,0 +1,1 @@
+I think we lose a lot because you want code/text from every paper to be open source and version controlled. The current paradigm of static PDFs in 50 different journal layout formats is human readable, but it’s not machine readable for the purposes of NLP, testing, code reuse.

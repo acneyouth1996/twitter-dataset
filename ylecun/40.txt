@@ -1,0 +1,1 @@
+SSL is not a "standard flavor" of SL. Try traditional SL methods to predict future frames in a video. You get blurry garbage. The key issue is how to represent uncertainty. It's easy in classification (softmax!). Not so easy when predicting high-dimensional continuous signals.

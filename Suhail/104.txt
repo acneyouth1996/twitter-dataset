@@ -1,0 +1,1 @@
+v0.0.24 will have audio support. Finally. #1 requested feature. I am working on some new UX stuff for browsers that doesn’t exist. Having so much fun creating again this past year.

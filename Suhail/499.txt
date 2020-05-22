@@ -1,0 +1,1 @@
+Quick poll: Are you aware that you can do CMD + L to get to the address bar in Google Chrome/Safari without using your mouse? (CTRL + L for Windows)

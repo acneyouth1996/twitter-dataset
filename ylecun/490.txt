@@ -1,0 +1,1 @@
+I do not dismiss symbols. I dismiss approaches to reasoning that are incompatible with gradient-based learning. Make symbol-based differentiable, and you win. But you seem to disapprove of gradient-based learning.

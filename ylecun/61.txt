@@ -1,0 +1,1 @@
+The main problem might be that the audio bandwidth of regular telephone is extremely limited (8bits sampled at 8kHz), and mobile communication introduces compression artifacts. It would probably work much better with Voice over IP through WhatsApp, Messenger or whatever.

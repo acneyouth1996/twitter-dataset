@@ -1,0 +1,1 @@
+I don't disagree. Still, the question remains as to whether there is a mechanism for direct/efficient estimation of the gradient. Gradient-free (0th-order) methods are just too inefficient at the scale of a brain.

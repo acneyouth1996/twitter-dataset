@@ -1,0 +1,1 @@
+...if there is a war, it is from people who insist on a particular representation of symbols manipulated by discrete (non-differentiable) functions. My hunch, and Hinton's is: replace symbols by vectors of activities, and replace logic by smooth functions. #NoWar

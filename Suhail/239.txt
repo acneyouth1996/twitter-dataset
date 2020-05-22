@@ -1,0 +1,1 @@
+A decision around contract length is important as part of the quota: is it okay to get paid on monthly or annual contracts? For bottom's up sales, there's a natural tension between monthly and annual because those users like monthly but churn far less if the plan was annual.

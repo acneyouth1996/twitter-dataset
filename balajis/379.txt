@@ -1,0 +1,1 @@
+Cochrane’s thesis is that rational, risk-averse individuals may avoid the virus on their own. Hope so, but feels risky relative to active containment. He also calls for better models. I don’t know if that’s key. Just parameter estimates for contagion & severity are sufficient.

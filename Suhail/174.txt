@@ -1,0 +1,1 @@
+It’s not quite a perfect test. In one case you’re drawing the cells that are being “hidden” while in the other it’s drawing white pixels & not expanding the width thus no “drawing” is really happening. So, it’s not too surprising it could be dropping frames for a good reason.

@@ -1,0 +1,1 @@
+As I, Geoff, Léon Bottou and others have said: "replace symbols by vectors and logic by algebra". This does not preclude reasoning, or even variable binding. But it may make reasoning differentiable. Read Leon's "from ML to Machine Reasoning". Call it symbolic or not, no matter.

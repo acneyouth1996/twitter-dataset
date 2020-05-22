@@ -1,0 +1,1 @@
+Aude Oliva (MIT): "there are about 200 papers using ConvNets to model the activity of the primate visual cortex." She is running a challenge to explain fMRI and MEG data: http://algonauts.csail.mit.edu/challenge.html http://algonauts.csail.mit.edu/challenge.html

@@ -1,0 +1,1 @@
+VCV Rack: a super-cool open source Eurorack modular synth emulator for Linux, Mac, and Windows. With a nice and simple API to develop your own modules in C++. How did I not know about this before? https://vcvrack.com https://vcvrack.com/

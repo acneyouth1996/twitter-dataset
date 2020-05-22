@@ -1,0 +1,1 @@
+Kolmogorov complexity tells us: "Almost all bit strings are random, except for all the ones we know about". Corollary: "Almost all tasks are unsolvable, except for all the ones we can think of". The tasks solvable by the human mind are an infinitesimal portion of all tasks.

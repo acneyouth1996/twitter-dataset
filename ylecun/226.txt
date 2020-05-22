@@ -1,0 +1,1 @@
+Full Bayesian approaches replace optimization by marginalization, which generally involve computing intractable integrals over the parameter space. Then, you have to use approximations, like variational methods, and you are back to optimization (optimizing a free energy).

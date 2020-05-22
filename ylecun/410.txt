@@ -1,0 +1,1 @@
+Wrong. FB is not "forced" to optimize for time spent. It doesn't use time spent as its metric. This changed a while ago. It uses "meaningful engagement": active interaction, mostly with stuff from friends. Things are actually designed to *minimize* the number of ads shown.

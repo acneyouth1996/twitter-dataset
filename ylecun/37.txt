@@ -1,0 +1,1 @@
+Exactly. More flexibility in the parameterization of the contrast function (doesn't need to be a normalized density). More flexibility in the objective for training (doesn't need to be a likelihood). More flexibility in the inference procedure (for latent variables).

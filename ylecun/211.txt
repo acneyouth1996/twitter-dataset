@@ -1,0 +1,1 @@
+Choose one: 1. "This doesn't really do symbol manipulation. And it doesn't generalize to other math problems. Hype!" 2. "Haha, I told you so! Transformers actually have explicit mechanisms for symbol manipulation. The DL community is finally listening to me."

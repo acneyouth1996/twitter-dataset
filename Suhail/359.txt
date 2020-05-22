@@ -1,0 +1,1 @@
+Today was one of those days where everything bombed We couldn’t get anything to work properly in production. Failed at onboarding new users And then, after lots of bug fighting via teamwork, it all magically works again and is stable 

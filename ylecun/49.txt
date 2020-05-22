@@ -1,0 +1,1 @@
+The only people who thought local minima were a problem for multilayer neural nets were people who never actually trained one on a real task. Tiny nets do get stuck when learning XOR. Lots of people tried that and failed and erroneously concluded NN are no good.

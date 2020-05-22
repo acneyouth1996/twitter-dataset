@@ -1,0 +1,1 @@
+I said DL was an "architectural language" (not an architecture), that enables the above-mentioned methodology. I previously said "DL is constructing networks of parameterized functional modules & training them from examples using gradient-based optimization"

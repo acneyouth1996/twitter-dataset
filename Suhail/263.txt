@@ -1,0 +1,1 @@
+Holy crap - I finally just got my mini end to end audio capture/streaming working for Mighty!!!1 s/o to @momarkhan for helping me with the C/C++ side of FFMpeg encoding What an end to the week.

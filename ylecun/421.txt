@@ -1,0 +1,1 @@
+DiffProg: one year later. I made this manifesto-sounding post about Differentiable Programming (DiffProg) exactly 1 year ago. The concept has evolved quite a bit in one year, with a number of research projects and workshop proposals focusing on it. https://www.facebook.com/yann.lecun/posts/10155722686332143

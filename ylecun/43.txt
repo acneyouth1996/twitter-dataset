@@ -1,0 +1,1 @@
+I agree with @tdietterich, SSL and Bayesian are orthogonal concepts. If anything, Bayesian methods get in the way by insisting on estimating densities through max likelihood. Densities in hogh-dim continuous spaces are either uselessly trivial or intractable. 1/2

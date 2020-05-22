@@ -1,0 +1,1 @@
+DL = { models are modular & non-linear, minimizes an objective function, computes gradient "analytically", uses gradients to minimize }. (This applies to all learning paradigms: supervised, unsupervised,...) Which of these 4 pillars do you propose to replace, and by what?

@@ -1,0 +1,1 @@
+(1) I don’t think you’ll see a direct competitor to GPUs. I think more specific hw will exist. (2) The dupe API isn’t a replacement. You still have to use NVENC where the pixels live in VRAM. Doesn’t work with hybrid discrete/integrate setups as well.

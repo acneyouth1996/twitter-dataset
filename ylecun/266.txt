@@ -1,0 +1,1 @@
+Wrong. See this: https://arxiv.org/abs/1612.03969 Look at Table 2: Row 7 (counting) and 14 (time reasoning) both get 0 error rates (this is on bAbI tasks). When you are fighting a rear-guard battle, it's best to know when you adversary overtook your rear 3 years ago.

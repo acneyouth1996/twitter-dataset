@@ -1,0 +1,1 @@
+I did not solve this but...the bug we encountered that inspired this tweet was: - Mighty crashed due to a SIGILL 4 - Impacted only 2012 macbooks - The instruction that failed is mulxq - It was introduced on haswell processors - Fix was OPTFLAGS=-O2 -march=sandybridge \o/

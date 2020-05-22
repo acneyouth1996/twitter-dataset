@@ -1,0 +1,1 @@
+If you can reopen and keep the number of cases near zero and the reproduction number below one (as per http://rt.live), that’s wonderful. But that requires a lot of testing, masks, effort, and taking the problem seriously.

@@ -1,0 +1,1 @@
+Let's say you open-source your MNIST-trained ConvNet and the Postal Service decides to use it to read zipcodes. Since your ConvNet is open source, someone could make a malicious white-box attack that would... https://www.facebook.com/yann.lecun/posts/10155793793147143

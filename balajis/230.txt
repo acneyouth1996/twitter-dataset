@@ -1,0 +1,1 @@
+Probably feasible to differentiate that with machine learning. But the contact tracing functionality is distinct from the green code functionality. The latter is more like presenting valid passport and vaccination certificate before you can board a plane.

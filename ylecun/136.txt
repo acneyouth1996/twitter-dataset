@@ -1,0 +1,1 @@
+DL is methodology: building a model by assembling parameterized modules into (possibly dynamic) graphs and optimizing it with gradient-based methods. In that sense it not "sufficient" because the architecture, the objective, and the optimization method must all be instantiated.

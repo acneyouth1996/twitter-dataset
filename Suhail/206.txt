@@ -1,0 +1,1 @@
+- Long-term plan (10 yrs) - All features have a long running comments on everything discovered - Weekly meeting notes with specifics of the past week - Heavy research documents on tough eng problems - Specs laid out for future plans for big features - Mid-term goals + planning

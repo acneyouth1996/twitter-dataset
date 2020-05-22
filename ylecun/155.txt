@@ -1,0 +1,1 @@
+The entire field of computer vision, pre-2012, was about explicit models of image formation, and included numerous engineered models of recognition. NLP was, until fairly recently, dominated by the Chomskian view of language. Pretty explicit.

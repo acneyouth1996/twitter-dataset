@@ -1,0 +1,1 @@
+Slowly & somewhat unexpectedly, we are forced to rebuild & learn about how the UI of OS’ work that we largely take for granted: scrolling, rendering, windowing, mouse/keyboard input, etc. It’s all so subtle & eye opening. Truly building on the shoulders of giants.

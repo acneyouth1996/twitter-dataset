@@ -1,0 +1,1 @@
+Nice work. But there is an earlier large-scale study by an NYU team using a ConvNet-powered mammogram analyzer. And, unlike the DeepMind system, it's open source! Tweet: https://twitter.com/kjgeras/status/1185002150360948737?s=19 Paper:... https://nyti.ms/36mdEEw

@@ -1,0 +1,1 @@
+Cloudify a restaurant 1) Set up a digital storefront on Uber Eats, DoorDash, Postmates, etc 2) Shut down the physical in-person restaurant & exit the lease citing force majeure 3) Set up a cloud kitchen backend with @travisk’s new CloudKitchens or equivalent 4) Do delivery only

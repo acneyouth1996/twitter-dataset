@@ -1,0 +1,1 @@
+If you insist on learning through max likelihood or max a posteriori you might need to compute the gradient of the partition function. But then again, you don't have to use MLE/MAP. The energy-based world is full of other objective functions.

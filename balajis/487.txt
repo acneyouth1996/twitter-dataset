@@ -1,0 +1,1 @@
+Two things about this study: 1) Shows crucial importance of EMR. They used it to get stats across 166 hospitals in quasi-realtime. 2) This is the kind of preprint I'm generally most confident in, because it's usually fully reproducible if you trust the underlying data table.

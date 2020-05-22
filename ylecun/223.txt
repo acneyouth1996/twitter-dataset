@@ -1,0 +1,1 @@
+This extract from our 2015 article *clearly states* that reasoning and symbol manipulation *must* be made compatible with DL. It proposes to use *meaningful* symbols (aka vectors of activities). Your war is against this *particular way* of representing symbols. It's *your* war.

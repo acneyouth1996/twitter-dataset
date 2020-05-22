@@ -1,0 +1,1 @@
+It might be time to remind ourselves that before ConvNets, the standard model used to explain shape recognition in psychophysics was template matching. Thos was still the case not so long ago.

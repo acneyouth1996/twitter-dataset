@@ -1,0 +1,1 @@
+Even for things like rough projections of how many folks worldwide may eventually get COVID-19 in an uncontrolled scenario, we can initialize and sanity check those models with hard data from molecular biology. See this thread on serosurveys from Feb.

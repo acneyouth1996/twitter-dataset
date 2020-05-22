@@ -1,0 +1,1 @@
+The sense of smell has hundreds of *channels* (like color images have 3 channels for RGB). A dimension is a collection of channels that possess some topology or geometry due to correlations. Nearby pixels in an image are more likely to have similar values than far apart ones.

@@ -1,0 +1,1 @@
+New #COVID19 data provide age, race and ethnicity of confirmed U.S. cases of COVID-19 as of April 14. Note that in many cases these factors were missing or not reported. See the data table: https://bit.ly/2yksfEk.

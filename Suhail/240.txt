@@ -1,0 +1,1 @@
+Customers as a result of bottom's up sales are usually more churn-y than say larger, more established customers. You'll have to decide whether churn is a component of the sales quota. Usually, it's a bad idea to incorporate churn (or things sales has little control over).

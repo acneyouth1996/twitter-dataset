@@ -1,0 +1,1 @@
+How about chapters on: - generating explanations for deep-net face detectors - whining that deep learning doesn't rely on your favorite approach to AI - searching for local minima that SGD never gets trapped in

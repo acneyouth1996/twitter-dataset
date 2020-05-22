@@ -1,0 +1,1 @@
+Longer version: they equate lethality to IFR, not CFR. IFR = deaths / *estimated* infections CFR = deaths / diagnosed cases Basic issue with IFR is: denominator varies wildly in different studies. Spanish study today estimated 1.1%. CFR is more robust, and it is like 3-16%.

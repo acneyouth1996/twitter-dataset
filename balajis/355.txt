@@ -1,0 +1,1 @@
+Many people think “peer review” means “independent replication and confirmation of results” It usually means months of delay while a few folks in your field write an email-length criticism of the paper and ask for more work. More like code review, at best. Not a panacea.

@@ -1,0 +1,1 @@
+If there are any really great front-end engineers that know TypeScript and want to help us with a Chrome Extension, we'd love to work with you on a medium size project that's really important. It'd be a 1-2 month contract at most. DM me.

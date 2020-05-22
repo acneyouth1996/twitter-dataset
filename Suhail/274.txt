@@ -1,0 +1,1 @@
+A simple test I use to often refute that price will give you a linear scaling advantage is asking myself: "If I made this $0, would I quickly increase the number of users by 10x?" Often the answer is a fractional versus multiplicative improvement.

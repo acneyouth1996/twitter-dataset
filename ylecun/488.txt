@@ -1,0 +1,1 @@
+When a new field appears, there are mostly researchers. Engineers start joining in large numbers when things start working. That's exactly what happened in ML, CV, ASR, NLP: Many more engineers building applications now. But also more researchers pushing the field forward.

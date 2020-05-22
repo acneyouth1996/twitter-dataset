@@ -1,0 +1,1 @@
+@maithra_raghu and @ericschmidt just posted a very nice overview of the use of deep learning for science. It is targeted at scientists who want to use deep learning in their work and need an overview of the landscape of methods, tools, and tutorial material.

@@ -1,0 +1,1 @@
+The Transformer-XL results from Google Brain on language modeling could not be reproduced by some top NLP researchers (and the authors are not helping). @srush_nlp offers a bounty for whoever can reproduce the results. (I assume the authors are excluded from the challenge!).

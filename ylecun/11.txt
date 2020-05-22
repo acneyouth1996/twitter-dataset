@@ -1,0 +1,1 @@
+If A is (mostly) the covariance matrix of a large number of vectors U[i] and if you don't need a high-precision solution, then use stochastic gradient to minimize ||AX||^2 (or more accurately minimize SUM_i ||X'U[i]-V[i]||^2 )

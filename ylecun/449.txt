@@ -1,0 +1,1 @@
+I guess the remaining question for your position are: GQ1. Will DL be part of the solution (you said yes) GQ2. Do you agree with "vectors, not symbols; diff functions, not hard logic" GQ3. If not, how do you propose we make reasoning compatible with DL?

@@ -1,0 +1,1 @@
+- You have 30-40+ tabs open - Running a complex Google Sheet - A demanding app like Google Earth which drops frames - You want your session to keep the tabs you had open even if you restart but Google grinds to a halt trying to reload tabs - Figma/Notion are resource-intense

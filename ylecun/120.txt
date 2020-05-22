@@ -1,0 +1,1 @@
+It is more efficient for evolution to specify the behavior of an intelligent organism by encoding an objective to be optimized by learning than by directly encoding a behavior. The price is learning time. The reason... https://www.facebook.com/722677142/posts/10156524222807143/

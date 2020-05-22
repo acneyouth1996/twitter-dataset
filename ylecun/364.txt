@@ -1,0 +1,1 @@
+I Now call it "self-supervised learning", because "unsupervised" is both a loaded and confusing term. In self-supervised learning, the system learns to predict part of its input from other parts of it input. In... https://www.facebook.com/722677142/posts/10155934004262143/

@@ -1,0 +1,1 @@
+Depends on numbers. But if the effective reproduction number is 0.95 and you still have 1000 cases per day, if you fully reopen without precautions you are likely to get community spread. And 0.95 can easily rise back over 1.0 as control measures break down.

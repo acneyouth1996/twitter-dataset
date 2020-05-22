@@ -1,0 +1,1 @@
+It's not quite as old as control theory. It's as old as system identification in control theory. But we are talking about very large models with billions of parameters to predict highly-complex stochastic processes. Not your father's system ID.

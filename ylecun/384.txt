@@ -1,0 +1,1 @@
+Habitat: a (fast) 3D simulator, a bunch of datasets, and a challenge for embodied AI research. A project brought to you by FAIR, Facebook Reality Lab, Georgia Tech, SFU, Intel, and Berkeley. https://www.facebook.com/722677142/posts/10155814693622143/

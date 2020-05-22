@@ -1,0 +1,1 @@
+Want to play with PyTorch, but prefer OCaml to Python? Here are OCaml bindings to the PyTorch C++ API. With examples for image recognition, GANs, RL, etc. By Laurent Mazare. https://github.com/LaurentMazare/ocaml-torch

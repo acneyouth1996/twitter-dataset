@@ -1,0 +1,1 @@
+Source for death and hospitalization stats. NOTE: the "66% contracted at home" stat may have been misreported in news and/or misstated by Cuomo. That's just where the patient came from before they arrived at hospital. Not necessarily where they got it.

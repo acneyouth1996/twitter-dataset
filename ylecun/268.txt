@@ -1,0 +1,1 @@
+Actually, machines that are trained to deal with quantities do learn to deal with quantities. Gary merely says that machines trained to predict missing words don't learn much about quantities. Duh!

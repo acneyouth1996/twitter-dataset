@@ -1,0 +1,1 @@
+FastMRI: FAIR and NYU are open-sourcing deep learning tool for MRI enhancement, to go along with NYU's recent release of a large dataset of MRIs. This Facebook blog post explains it all. https://code.fb.com/ai-research/fastmri/

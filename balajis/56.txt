@@ -1,0 +1,1 @@
+There are different versions, some with circular guards. Some ideas: 1) Run but only with your hands on the guards, so that you maintain your position and can lift yourself up to pause the game and stop the treadmill if needed 2) AI and cameras to auto-stop the treadmill

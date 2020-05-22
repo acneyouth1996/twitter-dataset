@@ -1,0 +1,1 @@
+The 2019 Scene Understanding and Modeling (SUMO) Challenge is up. It's a dataset and a competition to understand 3D indoor scenes from 360° RGB-D panoramas. Brought to you by a team from Facebook, Stanford, Columbia and Georgia Tech.... https://sumochallenge.org/

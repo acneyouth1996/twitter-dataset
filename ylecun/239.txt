@@ -1,0 +1,1 @@
+It's not a question of acuity but one of visual processing bandwidth in the cortex. The density of retinal ganglion cells (or optical nerve fibers) does decrease geometrically with eccentricity. The cortical area per fiber is constant. See work on visual crowding.

@@ -1,0 +1,1 @@
+My new soon-to-be favorite Mighty feature coming: if chrome crashes, your computer restarts, or anything bad messes up your flow, Mighty will bring back up all windows w/ their respective tabs to all the correct displays in the prior width/height in the precise x/y position.

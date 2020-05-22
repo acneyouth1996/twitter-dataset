@@ -1,0 +1,1 @@
+We're feeling pretty proud of this release. Looking forward to feedback from users next week. Lots of parity with actual Chrome & much more stable. A little bit of polish too. Something people can actually use day-to-day.

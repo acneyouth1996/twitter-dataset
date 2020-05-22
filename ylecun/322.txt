@@ -1,0 +1,1 @@
+ML/CV publication venues are moving up in the h5-index ranking: #9: CVPR (240) ahead of PNAS, PRL, JAMA. #27: NeurIPS (169) #42: ICLR (150) ahead of Neuron and Nature Neuroscience #56: ECCV (137) #59: ICML (135) #71:... https://scholar.google.com/citations?view_op=top_venues

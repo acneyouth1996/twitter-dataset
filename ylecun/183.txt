@@ -1,0 +1,1 @@
+Some folks still seem confused about what deep learning is. Here is a definition: DL is constructing networks of parameterized functional modules & training them from examples using gradient-based optimization.... https://www.facebook.com/722677142/posts/10156463919392143/

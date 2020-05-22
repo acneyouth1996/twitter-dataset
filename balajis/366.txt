@@ -1,0 +1,1 @@
+Models for the trajectory of a ball thrown in the air tend to be accurate because we can repeat the experiment and fix what we got wrong. But forecasting this type of stuff is at best directional. Molecular biology is what’s crucial here, not models.

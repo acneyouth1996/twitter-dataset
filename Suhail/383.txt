@@ -1,0 +1,1 @@
+I would: 1. Launch regionally not globally 2. Serve only users with "good enough" networks 3. Focus on input latency 4. Integrate with existing controllers vs build one 5. Focus on PC not TV first 6. Partner on exclusives 7. Package a better router as part of the exp

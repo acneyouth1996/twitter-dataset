@@ -1,0 +1,1 @@
+*if* the brain optimizes an objective *then* what do you propose the optimization method is? 0th order (gradient free), 1st order (uses direct gradient estimation), 2nd order (good luck), some new class of methods that no one is aware of? I'm just saying 0th order is too slow.

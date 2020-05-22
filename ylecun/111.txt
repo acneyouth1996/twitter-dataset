@@ -1,0 +1,1 @@
+Well, the World-Wide Web (including the http protocol and the 1st Web browser Nexus) was invented by Tim Berners-Lee (who is British) while he was working at the Centre Européen de la Recherche Nucléaire (CERN) in Geneva. The underlying protocol (TCP/IP) was invented in the US.

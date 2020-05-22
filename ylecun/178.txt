@@ -1,0 +1,1 @@
+I believe that DL (defined as gradient-based learning applied to networks of differentiable modules), is here to stay. So yes: I think DL is the right scientific model. More accurately: DL is part of the solution. Though obviously, its current incarnations are insufficient.

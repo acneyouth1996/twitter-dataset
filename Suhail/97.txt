@@ -1,0 +1,1 @@
+I just finished up making it possible, in Mighty, to automatically remove all Cookie banners that pop up as you browse. *yawn* late night programming is so productive for me.

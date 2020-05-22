@@ -1,0 +1,1 @@
+One can mark images invisibly so that it becomes possible to tell if a neural net was trained on it. It like a kind of radioactive tagging of data that makes its use traceable.

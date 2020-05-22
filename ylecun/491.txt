@@ -1,0 +1,1 @@
+I do not advocate unsupervised (or self-supervised) learning as a solution to reasoning. I advocate it as a solution to acquiring enough background knowledge for common sense to emerge. Reasoning is a somewhat separate problem. 1/2

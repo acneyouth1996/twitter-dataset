@@ -1,0 +1,1 @@
+True. The trade off for messaging is that you also can’t accrue any benefits of the existing network automatically. Every app has to start out from scratch unless they copy an existing protocol. You can innovate in email/cal if you know the other user is using the same product.

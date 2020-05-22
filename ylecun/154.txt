@@ -1,0 +1,1 @@
+Before we can demonstrate the value of a theory, we have to "make them up". Jitendra Malik once complained to me that to exist in computer vision, you had to have a "theory". There were many of them in the 90s and 00s, many had hierarchy of representations as a component.

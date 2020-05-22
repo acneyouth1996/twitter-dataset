@@ -1,0 +1,1 @@
+Well, if you're on Catalina it looks like they didn't notarize the app. As in, it could be signed on Mojave but there's an extra step. In fairness, figuring that out is approximately a day or two.

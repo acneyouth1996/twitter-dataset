@@ -1,0 +1,1 @@
+If you use macOS & you remap the CAPS LOCK key to ESC, how do you do it? Do you use another program (which program?) or do you use System Preferences -> Keyboard -> Modifier keys to do so?

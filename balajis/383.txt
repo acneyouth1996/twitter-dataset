@@ -1,0 +1,1 @@
+We should retest these samples to make sure they aren’t false positives, and sequence them so that we can place them in a phylogenetic tree. The tricky part for the non-China theories is the homology to pangolin- and bat-derived sequences. Cc @trvrb @ewanbirney

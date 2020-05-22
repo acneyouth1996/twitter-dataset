@@ -1,0 +1,1 @@
+"Who is afraid of non-convex loss functions?" A talk I gave at a workshop at NIPS 2007. Joan Bruna dug up my slides. The video of the talk is on youTube: https://www.youtube.com/watch?v=8zdo6cnCW2w This talk is a... https://www.facebook.com/yann.lecun/posts/10155948601797143

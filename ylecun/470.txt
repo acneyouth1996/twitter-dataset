@@ -1,0 +1,1 @@
+Yeah, obviously we "pretend" that image recognition is solved, which is why we have a huge team at Facebook "pretending" to work on image recognition. Also why 6500 people "pretended" to attend CVPR 2018.

@@ -1,0 +1,1 @@
+PDE models in physics and engineering don't usually have millions of parameters that are learned from data. Although an increasing number of physicists are using DL to produce phenonemological models of complex systems (e.g. molecules, materials, the whole universe...l

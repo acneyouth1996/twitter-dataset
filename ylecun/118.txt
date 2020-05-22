@@ -1,0 +1,1 @@
+The Lisp that Léon Bottou and I wrote as a front end to our deep learning system, Lush, wasn't particularly functional. In fact, it had an object-oriented feature that we used extensively for deep learning, GUI, etc.

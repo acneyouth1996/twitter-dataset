@@ -1,0 +1,1 @@
+Sure. But could we get to the point of being able to run a linter on text, one that is connected to a knowledge graph, much like we run a spellchecker on copy or a compiler on code? I think that is achievable.

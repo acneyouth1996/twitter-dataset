@@ -1,0 +1,1 @@
+ICLR participants can watch my keynote & Yoshua Bengio's here: https://iclr.cc/virtual/speaker_7.html I argue that self-supervised learning with regularized latent-variable energy-based models for self-supervised learning is the way of the future. Live Q&amp;A session Thursday at 12:00 EST.

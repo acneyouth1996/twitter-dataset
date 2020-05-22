@@ -1,0 +1,1 @@
+This week I learned & wrote some React for the first time, wrote CSS after a decade, deeply learned how Chrome extensions work, and built a new feature in a browser: idea on Sunday & done by 8p tonight. It's so fun to be building again & appreciate the few people catching me up.

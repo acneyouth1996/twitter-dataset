@@ -1,0 +1,1 @@
+While one should strive to use gradient-based optim whenever possible, there are situations where the only option is gradient-free. Gradient-based is way more efficient, but not always applicable. PS: my 1st paper on perturbative learning was at NIPS 1988 https://papers.nips.cc/paper/122-gemini-gradient-estimation-through-matrix-inversion-after-noise-injection

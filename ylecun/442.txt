@@ -1,0 +1,1 @@
+No one claims that NLU is solved But recent progress in translation, topic classification, summarization, natural language inference, text retrieval, and dialog have all been have been brought about by deep learning, over the moribund body of "classical" computational linguistics

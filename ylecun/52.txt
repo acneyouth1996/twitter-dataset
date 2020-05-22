@@ -1,0 +1,1 @@
+Pontryagin had the Lagrangian formulation of optimal control: the Lagrange multipliers are the back-propagated variables, i.e. the state of the adjoint system & the momentum in Lagrangian classical physics. The math was there. But not the algorithms nor the instantiations to ML.

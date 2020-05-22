@@ -1,0 +1,1 @@
+Because of a lack of diversity in our training samples of intelligent entities. Which creates spurious correlations: The "is intelligent" feature has a high correlation with "is human", and an even high correlation with "is mammal".

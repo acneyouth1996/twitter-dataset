@@ -1,0 +1,1 @@
+No, the reason why the "DL community" is largely focused on supervised is because it works. Self-supervised/unsupervised is harder. Today, self-sup works *really* well in NLP. Not so much in vision. Yet.

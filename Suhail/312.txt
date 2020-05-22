@@ -1,0 +1,1 @@
+This is exactly why it's often better to not start out with the mash of APIs/libraries you stitch together from a tutorial. Instead, focusing on the simplicity of what the language has to offer: My favorite early project is just automating the parsing of strings in a file.

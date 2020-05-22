@@ -1,0 +1,1 @@
+There has been no "pivot" whatsoever. Yoshua's position and mine regarding the capabilities and limits of current ML models have been very consistent over at least 15 years. Our general ideas about how to lift the limitations have also been very consistent.

@@ -1,0 +1,1 @@
+I'm defensive? I don't need to be. But why are you so offensive? CherryPi (the FAIR StarCraft bot) is largely rule based too, with a bit of ML/RL. It's also open source. The Samsung bot is not "still better" than CherryPi since it didn't even exist until now.

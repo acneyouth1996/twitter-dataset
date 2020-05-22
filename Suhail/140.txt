@@ -1,0 +1,1 @@
+Mighty no longer requires permissions finagling. The final experience will be: (1) download, (2) drag icon to Applications, (3) simple sign up, (4) use Chrome. I think it'll have that Dropbox feel from 2010 where "it just works."

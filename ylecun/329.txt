@@ -1,0 +1,1 @@
+I also disagree that SSL is a mere rebranding of "unsupervised". I'd say it's a particular form of way of unsupervised learning in which you essentially use supervised methods to predict/reconstruct part (or sometimes all) of the input.

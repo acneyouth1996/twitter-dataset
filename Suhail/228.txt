@@ -1,0 +1,1 @@
+This does bring up a meta-point I learned: if you're going to incentivize multiple behaviors, make sure to choose one that's 70% of the quota. Cutting up the quota into equal parts is confusing. That's why churn as part of quota is usually ineffective.

@@ -1,0 +1,1 @@
+Dear hacker web: What's the best way to take an image intended for a 72 DPI monitor (1280x1024) and remove pixelation/jaggies without increasing pixels? Blurring? What's the fastest way to blur but retain as much quality as possible? Can macOS natively do this with an API?

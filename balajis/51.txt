@@ -1,0 +1,1 @@
+1) Number of independent confirmations by others: similar to crypto, you wait for others to independently confirm key facts prior to thinking of an article as “true” 2) Parse and compare to a knowledge graph: look up each assertion in a database of facts https://thenextweb.com/podium/2019/06/11/what-is-a-knowledge-graph-and-how-does-one-work/

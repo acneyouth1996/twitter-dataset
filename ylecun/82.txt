@@ -1,0 +1,1 @@
+If your car has an Automatic Emergency Braking System (which most recent cars have), then that can literally be true. AEBS reduce collisions by about 40%. They all use ConvNets.

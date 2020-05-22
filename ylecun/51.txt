@@ -1,0 +1,1 @@
+Exactly. It also completely invalidates claims that backprop was invented in Finland. It is quite common that similar ideas appear independently in different contexts within a decade or two of each other, and are given different names because they are used for different things.

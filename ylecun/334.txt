@@ -1,0 +1,1 @@
+The authors had a hard time implementing capsules on specialized hardware using TensorFlow. The title should have been "the Google deep learning stack needs an overhaul". Cheap shot, I admit.

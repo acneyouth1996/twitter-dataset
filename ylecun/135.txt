@@ -1,0 +1,1 @@
+Most academics spend most of their time coming up with new techniques (and new analyses thereof) for which competitions/benchmarks merely play the role of quantitative metrics. Getting good numbers on a particular practical problem is a different pursuit (a valuable one, too).

@@ -1,0 +1,1 @@
+We got a prototype for a new kind of Chrome extension completed that will be exclusive for Mighty users to help with tab finding if you have many windows/tabs open. Really excited to see what users think & iterating on it.

@@ -1,0 +1,1 @@
+Yeah, that's a pretty narrow task. Which is fortunate because you sure don't want to have people do it. That said, there are interesting causal inference problems there. Look at this paper by Leon Bottou https://leon.bottou.org/news/explore_exploit_correlation_causation

@@ -1,0 +1,1 @@
+To most people in the field, any particular network architecture trained with gradient-based learning is qualified as DL (even if it's designed to manipulate symbols) In that sense "DL alone" will probably do a lot more things than it does today.

@@ -1,0 +1,1 @@
+I'd agree with that. With the caveat that handling uncertainty is both necessary and considerably harder than in traditional supervised settings: Representing uncertainty in classification is a mere softmax. Representing a distribution over video frames is intractable.

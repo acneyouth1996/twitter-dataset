@@ -1,0 +1,1 @@
+The most surprisingly hard thing about making a streaming browser is how hard scrolling is to get perfectly right. You have to dial in the momentum, how far it goes per wheel click, support magic mouse vs regular vs trackpad, iframes vs non-iframes, etc. Users are very sensitive.

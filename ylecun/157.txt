@@ -1,0 +1,1 @@
+I agree. There are a few tasks for which one can engineer intelligent behavior (pretty much what a big chunk of CS is all about). But for "intelligence", human engineering ingenuity is insufficient. The recent history of computer vision, speech and NLP is strong evidence to that.

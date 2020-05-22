@@ -1,0 +1,1 @@
+I think the second part of citizen journalism is reproducible journalism, based on decentralized fact checking. This involves some new culture (citation of all sources, github-style corrections, etc) and some new technology. See this thread for details.

@@ -1,0 +1,1 @@
+Would you refute the organizing principle that learning and inference can be formulated as optimization problems? Or would you merely refute the idea that optimization is more efficient when it's gradient based, rather than combinatorial/discrete?

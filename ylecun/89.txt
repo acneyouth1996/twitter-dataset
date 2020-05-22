@@ -1,0 +1,1 @@
+Yes. You can use the loss you want. I'm referring to the idea of substituting a word for another one, instead of replacing it by a blank slot as in BERT.

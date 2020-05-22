@@ -1,0 +1,1 @@
+So, our approach is going to be using npm version , tagging our git repo, and shipping a client (users) / host (prod) machines weekly on that tag. We'll cut the release on Fri, test ourselves for a few days, then ship it late Monday if that all goes well. h/t @rahulvohra

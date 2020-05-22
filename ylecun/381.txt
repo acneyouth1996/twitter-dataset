@@ -1,0 +1,1 @@
+Fast similarity search requires quantization. FAIR ICLR paper+code: trains a net to map input distributions to maximally-uniform distributions on the sphere while preserving neighborhood relationships. Paper: https://arxiv.org/abs/1806.03198 Code: https://github.com/facebookresearch/spreadingvectors @alexsablay

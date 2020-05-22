@@ -1,0 +1,1 @@
+Nils Nilsson passed away. He is best known for the invention of the A* algorithm for path finding, and for his leading role in the Shakey project at SRI, one of the first mobile robots with visual perception and trajectory planning.... http://robotics.stanford.edu/~nilsson/

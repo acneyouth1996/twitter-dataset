@@ -1,0 +1,1 @@
+The 3 major personas I've discovered: - Single window warriors: Type A people who never let their tab count grow beyond 20. - Chaos the organized: 1-2 windows, 40+ tabs but they know where everything is. - The context-switcher: Many windows w/ many tabs. Interrupt driven. Chaos.

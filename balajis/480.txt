@@ -1,0 +1,1 @@
+The http://rt.live dashboard helps see which states are keeping the virus under control and which are not. That's masks, testing, and reopening policies...but it's also individual behavior. (Note that you need lots of testing to properly estimate a reproduction number.)

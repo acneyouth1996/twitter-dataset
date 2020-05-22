@@ -1,0 +1,1 @@
+Cool thread by my dear NYU colleague @andrewgwils on Bayesian NN. As I stated in a recent video, I'm a Bayesian of a strange kind: I'm a free energy Bayesian, a probability-free Bayesian. [A free energy is what you get when you marginalize an energy over a latent variable]

@@ -1,0 +1,1 @@
+The sad thing is that the ideal batch size is 1, and the ideal network architectures are different from the most popular ones. The reason we use large batches and ResNet architectures is the design of current Nvidia GPUs that force us to reduce everything to matrix products.

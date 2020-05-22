@@ -1,0 +1,1 @@
+How will you balance releasing something useful for Android quickly while recognizing it will take time to get to the parity of your iOS client? Will it simply release at full parity?

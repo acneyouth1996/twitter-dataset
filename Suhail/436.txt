@@ -1,0 +1,1 @@
+I tried to buy an ENS domain. The state of things made me sad: 1. Metamask & Coinbase don't interoperate. I couldn't find a web3 coinbase browser. 2. When I tried to send crypto to Metamask, this happened: "You are currently unable to buy and sell digital currency on Coinbase."

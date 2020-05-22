@@ -1,0 +1,1 @@
+Actually, much of the difficulty in HMM and other probabilistic models comes from the normalization requirement. Remove the normalization and take negative logs, and you get so-called energy-based models. The math is the same as in statistical physics. 1/2

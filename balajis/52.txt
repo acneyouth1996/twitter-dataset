@@ -1,0 +1,1 @@
+When you publish something on social media, you can quickly determine if it’s popular but not whether it’s true. What are some mechanisms for the latter? Two come to mind: 1) number of independent confirmations by others 2) parse and compare to a knowledge graph What else?

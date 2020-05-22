@@ -1,0 +1,1 @@
+Awesome new paper from FAIR: 1. A new type of large-scale memory layer that uses product keys (FAISS-like indexing with product quantization) 2. Replace some layers in a BERT-like architecture by these Product Key Memory layers. ..... 3.... https://arxiv.org/abs/1907.05242

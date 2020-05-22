@@ -1,0 +1,1 @@
+In 10 years, we will not be using NVIDIA GPUs to the extent we do. They are expensive, licensing is restrictive to devs, & there will be many competitive chips specializing in sharper, narrow tasks. NVIDIA is extremely focused on the short-term — my biggest insight this year.

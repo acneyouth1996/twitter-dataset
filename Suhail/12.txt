@@ -1,0 +1,1 @@
+You shouldn't need to inject JS into every single webpage & have access to unprecedented information to every website to manipulate however you want. For instance, you're forced to do that & build a shadow DOM just so that you can customize your UI outside of the toolbar popup.

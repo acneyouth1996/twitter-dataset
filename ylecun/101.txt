@@ -1,0 +1,1 @@
+The ML part may be "trivial" in the sense that the network is a standard ResNet34 and the task is standard semantic segmentation. You get the code from the PyTorch repo. BUT the protocols for data collection/preparation, training, and performance testing are highly non trivial.

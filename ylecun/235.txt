@@ -1,0 +1,1 @@
+He is saying what I've also been saying. Logic-based symbol manipulation is incompatible with gradient-based learning. Much of biological intelligence uses "vectors" and continuous functions to do the things that symbols and logic do.

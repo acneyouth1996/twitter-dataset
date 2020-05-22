@@ -1,0 +1,1 @@
+5-6 GB or more of RAM is completely offloaded to some other place. Noticeably faster page loads. It's like your computer getting an upgrade. If you're a light tab user, Mighty won't be useful for you, yet. That would be like using Superhuman while only getting a few emails a day

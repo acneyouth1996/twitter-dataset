@@ -1,0 +1,1 @@
+I'm proposing to learn dependencies through energy-based models, where you don't predict a normalized density, and you are not forced to use max likelihood as your objective function. It gives you more flexibility to get around intractability.

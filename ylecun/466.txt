@@ -1,0 +1,1 @@
+Chelsea Finn (Stanford) giving an *awesome* tutorial on model-based reinforcement learning at the annual pre-NeurIPS workshop of the CIFAR program "Learning in Machines and Brains", in front of a distinguished audience.

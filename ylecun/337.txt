@@ -1,0 +1,1 @@
+I started doing this kind of demo on GPU-equipped laptops in 2013 (on Razor Blades, MSI...) Before the GPU days, I started showing ConvNet demos on laptops during my talks in 2003. Always running Linux (generally Ubuntu).

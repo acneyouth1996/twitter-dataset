@@ -1,0 +1,1 @@
+People find live video useful. The problem comes down to developing real-time video filtering systems that can filter out objectionable content in real time. It's hard to make them accurate enough to be acceptable, and then it's hard to scale them up to 2.7B users.

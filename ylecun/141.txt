@@ -1,0 +1,1 @@
+PSH is already used very widely. But there is limited capacity due to terrain topology. That why it's not scalable. Some countries are lucky enough to have lots of high-altitude floodable areas, like Switzerland. Some regions, like Québec, have enormous hydro resources.

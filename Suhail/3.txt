@@ -1,0 +1,1 @@
+I guess the simplest way to describe why it's faster is because Figma utilizes as much of the GPU as possible. Mighty gives users a NVIDIA GPU which Apple notoriously won't put in their computers. Most users don't even have a discrete graphics card.

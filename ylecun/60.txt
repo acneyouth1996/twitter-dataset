@@ -1,0 +1,1 @@
+Presumably, there is a lit of information about wheezing and such in the upper part of the audio spectrum. Anything above 8kHz gets completely eliminated by POTS (Plain Old Telephone Service) or clobbered by the lossy audio compression codecs of mobile services.

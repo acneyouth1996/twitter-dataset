@@ -1,0 +1,1 @@
+What you see as a flaw of an architecture, we see as a flaw of the learning paradigm. You want more structure in the architecture (and we don't necessarily disagree with that). We want a new learning paradigm that extracts more knowledge from raw data (unsup/self-sup)

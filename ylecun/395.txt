@@ -1,0 +1,1 @@
+Well, Facebook uses ResNet-like ConvNets for all its image recognition (2 to 3 billion photos per day for the Blue Site alone, processed by a handful of ConvNets). The ConvNets are pretrained on billions of Instagram images to predict hashtags, then fine-tuned.

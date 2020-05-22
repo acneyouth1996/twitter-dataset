@@ -1,0 +1,1 @@
+Modelers & anti-modelers miss the point. This isn’t physics. We can’t run controlled experiments or make granular time-series forecasts. There are only two parameters we really care about: how transmissible is the disease and how severe is it? Everything else follows from that.

@@ -1,0 +1,1 @@
+RL is not "wrong" in the sense that logistic regression is not wrong. But you sure as hell can't do object recognition with logistic regression alone. And you can't train a system to drive a car with current crops of RL either.

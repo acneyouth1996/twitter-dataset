@@ -1,0 +1,1 @@
+"How do we integrate symbol manipulation with learning.." is exactly the question I'm asking too. We agree on that. But I think deep (or gradient-based) learning is part of the answer. One of your tweets seems to agree. But your above jab at deep nets seem to suggests otherwise

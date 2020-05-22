@@ -1,0 +1,1 @@
+Two really interesting pieces I read this morning: 1. @VitalikButerin's "Hard Problems in Cryptocurrency: 5 Years Later" reads like a primer on the state-of-blockchain. Read: https://vitalik.ca/general/2019/11/22/progress.html 2. VVC: 30%-50% bitrate reduction compared to the H265:

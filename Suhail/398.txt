@@ -1,0 +1,1 @@
+Today was one of those days where I discovered a feature in Chrome that normal Linux users would probably think most certainly was unexpected behavior but works perfectly to solve a major problem for our users in streaming Chrome. IDK why everything is this close to the edge.

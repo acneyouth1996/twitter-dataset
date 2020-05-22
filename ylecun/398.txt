@@ -1,0 +1,1 @@
+Not quite right. A more accurate statement would be "for everything else, there is gradient-free (zeroth-order) optimization." RL is when there is a sequential decision process and what you see depends on previous actions you took.

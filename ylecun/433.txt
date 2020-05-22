@@ -1,0 +1,1 @@
+Correction: you are attempting to hijack an opinion that Hinton was arguing for in 1991, while you were still in a larval stage. Hinton's view on the topic hasn't changed: how to implement reasoning with neurons and make it compatible with gradient-based learning.

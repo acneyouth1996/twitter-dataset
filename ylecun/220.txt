@@ -1,0 +1,1 @@
+SSL FTW! Pretext-Invariant Representation Learning: a self-supervised method based on Siamese nets for visual feature learning from FAIR. Beats supervised pre-training & all previous SSL methods on ImageNet, VOC-07-12, etc. https://arxiv.org/abs/1912.01991

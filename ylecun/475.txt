@@ -1,0 +1,1 @@
+Since we have DL but don't yet have AGI, it's quite obvious to everyone that we are missing something. I repeat: the interesting question is precisely what. I repeat my claim: DL (defined as gradient-based learning of non-linear functions) will be part of the solution.

@@ -1,0 +1,1 @@
+When optimizing a function, you can use 0th order methods (gradient free), 1st order (gradient based), and sometimes 2nd order (gradient & curvature), etc. Do you have any alternative I'm not aware of?

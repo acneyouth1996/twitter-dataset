@@ -1,0 +1,1 @@
+I drive a 2015 Tesla S, which has a Mobileye ConvNet-based vision system. It works. It's not perfect, but it's very useful (reduced cognitive load). Video subtitling is good enough for 2B ppl to play silently. Image captioning good enough for millions of blind people to use it

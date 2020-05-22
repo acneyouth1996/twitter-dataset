@@ -1,0 +1,1 @@
+That's why you'll see interesting papers that have so-so numbers on your favorite benchmark, but say: few labeled samples, no data augmentation, single crop, no ensemble,.... You can always add those tricks to get the numbers up.

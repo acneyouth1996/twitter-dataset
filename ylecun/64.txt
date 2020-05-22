@@ -1,0 +1,1 @@
+CFR (case fatality ratio) is bet 0.25% & 10%, depending on the #of ppl you test. We need the Infection FR: ratio of deaths & total #of infected ppl. That is unknown, but most probably less than 1% (the #of infection may be 10x the #of cases).

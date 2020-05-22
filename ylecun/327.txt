@@ -1,0 +1,1 @@
+Sure but...45% accuracy is not exactly good. You can get close to 88% with a linear classifier. You can get 95% with nearest-neighbor/L2 distance. No deep learning necessary. But if you want more than 99% without losing your computational shirt, go with ConvNets.

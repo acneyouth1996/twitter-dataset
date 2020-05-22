@@ -1,0 +1,1 @@
+This alledged blindness is a myth. The entire AI hardware industry is devoted to this, so much so that the main figure of merit is measured in operations per Joule or operations per second per Watt. And tons of efforts in AI software infra is on minimizing power consumption.

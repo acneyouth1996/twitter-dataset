@@ -1,0 +1,1 @@
+A multi-layer neural net trained with backprop is, of course, a special instance of DL. Although, a NN with only one hidden layer is a little too simple to deserve the adjective "deep".

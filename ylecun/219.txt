@@ -1,0 +1,1 @@
+People are biased. Data is biased, in part because people are biased. Algorithms trained on biased data are biased. But learning algorithms themselves are not biased. Bias in data can be fixed. Bias in people is harder to fix.

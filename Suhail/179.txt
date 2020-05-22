@@ -1,0 +1,1 @@
+Technologically, a few things need to change about the world: low-latency ( video interaction, continued progress in Internet bandwidth + congestion, monotonically decreasing compute, & high quality encoding algos. All of which is true/possible right now.

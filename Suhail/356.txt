@@ -1,0 +1,1 @@
+TIL: Mighty is way faster for applications like Google Earth. Smoother, snappier, less latency/delay moving around, etc compared to a local Chrome on a late top-of-the line 2017 Macbook Pro.

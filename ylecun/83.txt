@@ -1,0 +1,1 @@
+Actually, @boredyannlecun is a student network trained from my written output through distillation. But that's insufficient, so there is more denoising AE-style contrastive self-sup training where the contrastive samples come from /r/deeplearning. Somehow, there is mode collapse.

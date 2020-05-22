@@ -1,0 +1,1 @@
+This point has always been known. But again, it is a limitation of supervised learning, not of the architecture (deep or not). Geoff Hinton's focus on unsupervised learning for the last 40 years (and me for the last 20) stems from this.

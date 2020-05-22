@@ -1,0 +1,1 @@
+We are in the market for a simple tool to send logs to some cloud service. We use winston (JS) + spdlog (C++) to log things to a flat file right now. We'd need to support both. What do people use to log bugs/crashes/etc to the cloud?

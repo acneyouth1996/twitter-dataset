@@ -1,0 +1,1 @@
+Bluetooth is at the heart of contact-tracing apps designed to show whether you might have been exposed to covid-19. But doing it well is a complex and challenging task—even for the experts.

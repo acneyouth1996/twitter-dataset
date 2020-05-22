@@ -1,0 +1,1 @@
+v0.0.17 released: - we fixed a major memory leak - converted 1/3 of the code to TypeScript - We use AES-NI to reduce cpu - Window resizing & positioning saves state - unfortunately, had to revert an important feature—it happens The grind to parity is real.

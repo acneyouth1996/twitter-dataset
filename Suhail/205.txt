@@ -1,0 +1,1 @@
+Not ready for prime time. Still have high churn due to stability issues and lacking a few critical features like audio. Scaling to the general public is not a priority until we have 10+ users who really love it. We were working as fast as we can.

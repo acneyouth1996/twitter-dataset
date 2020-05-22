@@ -1,0 +1,1 @@
+How Facebook uses AI for content filtering. Recent progress in multi-lingual natural language understanding based on self-supervised learning have played a key role. So have progress in multi-modal content understanding.... https://www.facebook.com/yann.lecun/posts/10156364356212143

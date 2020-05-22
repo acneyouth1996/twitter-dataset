@@ -1,0 +1,1 @@
+Not the sole method for this. Instead of floundering, you can encode it on 8-bit char. You can cod it in C++, or move up the bar at CUDA. But that method is pretty haddock.

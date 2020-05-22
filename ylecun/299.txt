@@ -1,0 +1,1 @@
+DL is not an "algorithm". It's merely the concept of building a machine by assembling parameterized functional blocks and training them with some sort of gradient-based optimization method. That's it. You are free to choose your architecture, learning paradigm, prior, etc...1/2

@@ -1,0 +1,1 @@
+A lot of the primitives to make this thing work don't really exist. There are no clean APIs or frameworks. If you want audio streaming, you must build it. If you want macOS style smooth scrolling, you have to do a mini-physics equation. Forced to use custom hypervisor so no cloud

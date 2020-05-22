@@ -1,0 +1,1 @@
+Best visualization I've seen of how age impacts COVID-19 outcomes, from data on 16749 patients. Main takehome: people above 50 have elevated risk. Below that, less but nonzero risk. Other factors like gender or obesity are impactful, but age dominates. https://www.medrxiv.org/content/10.1101/2020.04.23.20076042v1

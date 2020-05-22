@@ -1,0 +1,1 @@
+A program called Vim highly depends on ESC and is widely used by programmers. CAPS LOCK is closer, easier to type, and is a fairly useless key since you have SHIFT.

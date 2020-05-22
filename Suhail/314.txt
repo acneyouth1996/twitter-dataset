@@ -1,0 +1,1 @@
+C++ and TypeScript. Unfortunately, a lot of sample code to get things working is written in C++. One issue with libsound is it hasn’t been updated in a year & it’s not very active in community support. Creator is MIA. So may go back to ALSA today.

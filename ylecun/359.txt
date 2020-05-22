@@ -1,0 +1,1 @@
+Two new papers on self-supervised learning for computer vision from FAIR! Visual features solely from images, without relying supervision, is a challenging and important task. A lot of work self-supervised pre-training and transfer learning... https://arxiv.org/abs/1905.01235

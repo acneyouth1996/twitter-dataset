@@ -1,0 +1,1 @@
+Terrible idea. This would simply slow down progress in the field. case in point: the BERT paper had 600 citations and was reproduced several times before its "official" presentation at ICLR 2019. The faster ideas are exchanged, the faster the field progresses. Embargo=friction.

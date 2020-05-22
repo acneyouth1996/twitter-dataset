@@ -1,0 +1,1 @@
+UnsupL is an ambiguous and loaded term with a misleading name. SSL is an approach to UL that uses SL-like methods to predict a part of the input from the other part of the input. You use it to learn representations of the input. 1/2

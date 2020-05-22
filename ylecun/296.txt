@@ -1,0 +1,1 @@
+The difference between ML and OC (or MPC) are 1. The objective is an average over samples. 2. The optimized parameters are persistent. 3. The model is highly non linear. But yes.

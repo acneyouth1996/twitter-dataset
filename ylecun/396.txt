@@ -1,0 +1,1 @@
+Structured prediction involves partial feedback and search (e.g. Viterbi algo in ASR, OCR and translation). Yet everything is generally differentiable. It fits your criteria for RL, but it's not RL.

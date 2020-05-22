@@ -1,0 +1,1 @@
+Exactly. Thanks for reminding everyone that the hard part is not coming up with a commonly-held general idea. It's to instantiate it, to implement it, and to make it work.

@@ -1,0 +1,1 @@
+Version 0.0.2 comes out next week. Should fix the top 3 major issues users had with another 10+ improvements. We're now beginning the cycle of 2 weeks of product improvements then try it w/ new user cohorts to get feedback. Our current goal is 10 very happy users.

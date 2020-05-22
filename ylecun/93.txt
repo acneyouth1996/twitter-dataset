@@ -1,0 +1,1 @@
+My original early 1989 NeurComp paper on ConvNet used stride 2, no pooling, simply because the computation was fast. The 2nd paper (NIPS 1989) used stride +average pooling/tanh. It worked better on zipcode digits. But it could have been due to many reasons.

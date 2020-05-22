@@ -1,0 +1,1 @@
+The real questions are Q1. Exactly how do we get DL systems to learn to reason? Q2. How do use self-supervised learning to get machines to learn abstract representations of the world (call them symbols if you wish, but really patterns of activity of neural nets, aka vectors)?

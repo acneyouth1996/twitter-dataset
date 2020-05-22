@@ -1,0 +1,1 @@
+We actually started out desiring to do that but two realities occurred: (1) Windows has absurd licensing fees for virtualization, (2) The long-tail of desktop, native apps is shrinking, and (3) the browser is where we increasingly spend most of our time. The browser is the OS.

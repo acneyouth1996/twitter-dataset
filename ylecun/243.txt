@@ -1,0 +1,1 @@
+....Dave Blei, etc, have been working on causality. I think a lot of ppl from outside the field criticize the current status while ignoring that people actively work on fixing the very aspects they criticize. This includes causality, self-sup learning, reasoning, memory, etc.

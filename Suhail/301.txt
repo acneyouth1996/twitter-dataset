@@ -1,0 +1,1 @@
+Even at scale, measuring a wide variety of metrics will rarely sound the alarm bells loudly & quickly enough when there's a steadily growing minority of unhappy users that will soon become the majority. It is often still better to just talk to ~20 users.

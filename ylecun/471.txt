@@ -1,0 +1,1 @@
+FAIR's open-sourced StarCraft bot, CherryPi, uses a modular architecture combining rules/search and deep learning (imitation learning and RL). The idea is to progressively increase the role of learning. This is probably the best StarCraft bot in the world right now.

@@ -1,0 +1,1 @@
+If you've done any kind of audio streaming utilizing C/C++, FFmpeg, AAC/MP3 encoding, I'd be interested in chatting with you. Working with FFmpeg has been tricky. I cannot just use the browser's native capabilities.

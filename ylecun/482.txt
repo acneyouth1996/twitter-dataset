@@ -1,0 +1,1 @@
+If learning is an important component of AGI, then optimization is, too. What type of optimization? Gradient based opt is far more efficient than non gradient based opt. So, I'll bet gradient-based optimization will be key. If your learner is non-linear, that's deep learning!

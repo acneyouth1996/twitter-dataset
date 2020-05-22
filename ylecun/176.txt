@@ -1,0 +1,1 @@
+Indeed. That's pretty much exactly what I've been saying for several years (and Geoff Hinton for decades). If we're going to make reasoning compatible with gradient-based learning we must replace symbols be vectors and logic by continuous functions.

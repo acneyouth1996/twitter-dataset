@@ -1,0 +1,1 @@
+A fairly important addendum to this: merely building those features doesn’t make your product ready & useful for the Enterprise. The core product has to actually be valuable (not just useful) for large companies too. A trap is assuming it’s destined to be.

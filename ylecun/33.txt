@@ -1,0 +1,1 @@
+Covariant is applying deep-learning-based computer vision to object recognition and grasping. Lots of startups have ideas about applying to . The tricky part is to make it work with industrial-strength reliability.

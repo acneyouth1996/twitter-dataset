@@ -1,0 +1,1 @@
+No, the boxlet paper came 10 years later. It was mostly Patrice Simard's idea of accelerating convolutions through an integral image. This paper is what inspired the Viola-Jones face detector.

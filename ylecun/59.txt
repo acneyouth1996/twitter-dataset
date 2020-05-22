@@ -1,0 +1,1 @@
+Andrew Gelman had a piece a while back, admonishing the Statistics community for the inefficiency of its publication and scientific communication process, particularly when compared with Machine Learning. He says that's why Stats became a kind of "backwater" of ML.

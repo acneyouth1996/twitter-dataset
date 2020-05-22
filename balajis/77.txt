@@ -1,0 +1,1 @@
+Virtualize the office Someone is going to build a VR office app that integrates enterprise SaaS apps. You might walk into a virtual room to interact with a persistent data analysis, or pull up a past whiteboard, or teleport someone in for a business meeting.

@@ -1,0 +1,1 @@
+Interested in any articles to understand how people deploy desktop software (probably applies to mobile as well): specifically how folks cut stable releases even though there's an influx of new features/code that could create instability if you cut from master.

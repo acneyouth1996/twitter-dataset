@@ -1,0 +1,1 @@
+At AICan: the first symposium of the Pan-Canadian AI Strategy, organized by CIFAR. You knew CIFAR10 and CIFAR100, behold CIFAR29: the 29 fellows of the inaugural cohort of CIFAR Canada AI Chairs.

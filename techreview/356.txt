@@ -1,0 +1,1 @@
+“Coronavirus has a weakness because the typical transmission time is fairly long, about a week,” says Microsoft’s @JohnCLangford, who has been working with the state of Washington on its contact tracing efforts. “If you can trace this in smaller time scales, you can shut it off.”

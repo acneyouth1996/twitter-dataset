@@ -1,0 +1,1 @@
+I'm not a big fan of brute-force deep learning research, but the argument that industry should refrain from doing research that can't be done in academia so as not to "drive them out" is preposterous.

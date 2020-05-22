@@ -1,0 +1,1 @@
+In theory, the folks with root access to the internet infrastructure should know more. XKeyScore alone is like Google for private communications. But perhaps these tools are limited by the quality of the queries? Or by encryption, or Chinese defenses. https://en.wikipedia.org/wiki/XKeyscore

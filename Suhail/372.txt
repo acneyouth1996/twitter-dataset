@@ -1,0 +1,1 @@
+We are looking to work w/ someone that has configured making multi-seat work w/ an NVIDIA GPU. As in: multiple X sessions on Ubuntu w/ their own mouse/keyboard where the GPU is in passthrough mode. If you know anyone who understands this stuff, we’d like to fund the research.

@@ -1,0 +1,1 @@
+If you see the reasoning engine as *separate* (and qualitatively different) from the deep learning system that provides it with inputs, then we disagree. Unless this reasoning "system" is a pen and paper to do math/logic. And much of human intelligence functions without it.

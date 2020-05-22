@@ -1,0 +1,1 @@
+Precisely. (I've since been told by my random matrix theory colleagues at Courant that the distribution of eigenvalues of a random covariance matrix can be obtained in a much simpler manner than with the replica symmetry breaking calculations used for this paper).

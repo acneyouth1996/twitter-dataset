@@ -1,0 +1,1 @@
+To discover causal relationships (say, with interventions) you still need a way to model dependencies between variables of interest. Can't you use deep learning for that? In that sense, DL can do causal inference. I agree that unmodified supervised learning can't (deep or not).

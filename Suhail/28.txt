@@ -1,0 +1,1 @@
+All attempts wherein apps like Figma, Slack, etc. exist outside the browser are trying to solve two major issues: (1) the web APIs to make something aren't available so they bridge using Electron and (2) users desire a focused app sometimes so the UX of the browser is ill-fitted.

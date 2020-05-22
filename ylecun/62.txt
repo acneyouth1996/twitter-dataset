@@ -1,0 +1,1 @@
+Indeed. And in an on-line setting, convergence speed is a good proxy for generalization. The better you generalize, the smaller the expected error on new samples, hence the shorter the convergence time. And vice versa.

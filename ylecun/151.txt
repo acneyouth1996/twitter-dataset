@@ -1,0 +1,1 @@
+You have to use zeroth-th order optimization (of which evolutionary methods are a special case) when the function is non-differentiable. But the efficiency is so much worse than gradient-based that it should only be used as a last resort.

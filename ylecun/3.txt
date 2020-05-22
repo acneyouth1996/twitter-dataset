@@ -1,0 +1,1 @@
+Mais s'inspirer du cerveau tout en dégageant des principes, ça marche! La preuve en est le succès des réseaux de neurones, du deep learning, et des réseaux convolutifs. La vraie question est: quels sont les principes sous-jacents à l'intelligence et à l'apprentissage?

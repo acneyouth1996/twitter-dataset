@@ -1,0 +1,1 @@
+R0 (the unmodified reproduction number) isn’t what you are looking for, it’s Re (the effective reproduction number in the face of human intervention). In theory yes, you could for a while have some daily new cases while keeping Re below 1, but they would taper off to zero.

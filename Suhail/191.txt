@@ -1,0 +1,1 @@
+Ugh, I should just delete my tweet in favor of this. Checks bigger companies have: code review, design review, security review, product review, legal review, exec review, a/b test metrics review, rollback, re-QA, full GA release. Startup: PR opened/closed, deploy to master.

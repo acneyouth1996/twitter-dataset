@@ -1,0 +1,1 @@
+4/ To ship product fast, you must scope just enough. That means you'll have to use judgment. I find that most of the time being greedy early on & satisfying the simple use-case is usually correct. Waiting & seeing how badly people want the rest is usually obvious later.

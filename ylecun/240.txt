@@ -1,0 +1,1 @@
+... But anyway, the point is that there is not all that much disagreement over where to go next, whether you call it causality or generative modeling or whatever. We clearly need to build machines that generalize better from one context to the next." (End of Max Welling FB post)

@@ -1,0 +1,1 @@
+Serious question: ConvNets are being used (or developed) for all kinds of applications. Many such applications are having a positive impact on the world, e.g. in medical imaging, car safety, content filtering,... https://www.facebook.com/yann.lecun/posts/10155803693337143

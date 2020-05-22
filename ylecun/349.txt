@@ -1,0 +1,1 @@
+MNIST reborn, restored and expanded. Now with an extra 50,000 training samples. If you used the original MNIST test set more than a few times, chances are your models overfit the test set. Time to test them on those extra samples. https://arxiv.org/abs/1905.10498

@@ -1,0 +1,1 @@
+I think the most important difference will be a foundation of numerical, cryptographically verifiable facts. Mathematical proof over social proof. We’re partway there with articles that are wrappers around tweets and proof-of-work. See this thread: https://twitter.com/balajis/status/1211785589097414658?s=20

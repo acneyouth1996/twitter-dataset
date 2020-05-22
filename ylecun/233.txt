@@ -1,0 +1,1 @@
+I'm sure a number of people have had similar ideas at the same time. I had it almost from the early days in 1988. But our first paper on this was at NIPS 1991: Matan et al. "Multi-digit recognition using a space displacement neural network" http://papers.nips.cc/paper/557-multi-digit-recognition-using-a-space-displacement-neural-network.pdf

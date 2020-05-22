@@ -1,0 +1,1 @@
+A study for a health economist to do. What price would people with “mild” COVID-19 pay for a theoretical cure? Call that X. Then say you have p probability of getting the virus & q of getting seriously (“mildly”) ill. Now the new cost of an in-person venti latte is $4.10 + Xpq

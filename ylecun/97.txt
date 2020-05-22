@@ -1,0 +1,1 @@
+Your theory is partially right. I had to put my name in braces {Le Cun} in bibtex. But most people citing me didn't, and I appeared as "Cun, Y. L."

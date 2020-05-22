@@ -1,0 +1,1 @@
+FAIR just open sourced a new version of ELF OpenGo that includes a re-implementation of DeepMind's AlphaGoZero. It includes trained models with super-human performance. Science makes progress when information, code... https://www.facebook.com/yann.lecun/posts/10155789997817143

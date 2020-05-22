@@ -1,0 +1,1 @@
+Ansible question: How do you run a .sh script that has a mix of commands that need to be run as the user and via sudo? - become: yes and -K are not sufficient since the script will run as root.

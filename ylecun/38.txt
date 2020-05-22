@@ -1,0 +1,1 @@
+I'm quite familiar with this type of approaches. I'm just saying: ditch densities and use energies. It's a much larger space where a better tradeoff between non-triviality and intractability can be found.

@@ -1,0 +1,1 @@
+The excoriating is against you "deep learning sucks" message. I would agree with "supervised learning sucks (but it's useful)". But DL is just gradient-based optimization applied to multi-module architectures. And you admit that DL is part of the solution. Be consistent.

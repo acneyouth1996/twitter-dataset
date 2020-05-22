@@ -1,0 +1,1 @@
+FastMRI dataset and benchmark: a collaboration between FAIR and the Radiology Dept of the NYU Langone School of Medicine. Designed to help the development of ML method that reduce MRI scanning times.

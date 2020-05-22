@@ -1,0 +1,1 @@
+In all of this, the questions are: (1) what architecture? (it needs to be compatible with backprop) (2) what learning paradigm and objective function? (RL, SL, SSL...) (3) what training data and training protocol? But trainable networks of differentiable modules are here to stay

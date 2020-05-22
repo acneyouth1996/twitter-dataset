@@ -1,0 +1,1 @@
+I always love to engage with non-troll, well-meaning clever thinkers. I've had 5 or so really wonderful discussions ranging from "What if WASM replaces JS to improving security for users to figuring out how to scale virtualization better" - they've been incredibly enlightening.

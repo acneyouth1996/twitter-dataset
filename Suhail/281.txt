@@ -1,0 +1,1 @@
+Spent the morning making sure our build process/docs work as intended so onboarding folks goes smoothly. Never ending—I wish this were easier still. (Can’t use containers + sometimes it’s good to go through the steps to remove the magic)

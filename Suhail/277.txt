@@ -1,0 +1,1 @@
+Does anyone here use Firebase to create custom token's via the HTTP REST API? Looking for clues to this: https://github.com/firebase/firebase-js-sdk/issues/2557 I know most people wouldn't do this but we have to :(

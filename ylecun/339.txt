@@ -1,0 +1,1 @@
+FAIR and Facebook Reality Lab (FRL) have collaborated to release two interactive environments for trainin AI agents: 1. AI Habitat: fast simulation of indoor environments 2. Replica: visually realistic indoor... https://www.facebook.com/yann.lecun/posts/10156031682517143

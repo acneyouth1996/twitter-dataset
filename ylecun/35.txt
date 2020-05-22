@@ -1,0 +1,1 @@
+Model Predictive Control is not RL. It's optimal control. It doesn't have two of the main causes of inefficiency in "pure" RL: the lack of a forward model, and a non-differentiable objective that you can only probe by taking an action in the environment.

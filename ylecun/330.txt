@@ -1,0 +1,1 @@
+I see nothing wrong with "self-supervised". It means what it says: the input contains its own supervisory targets. The underlying algorithms may be supervised, but the signal being predicted is not distinct from the input. I would settle for the more pedantic "auto-supervised".

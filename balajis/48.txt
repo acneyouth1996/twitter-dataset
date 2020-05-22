@@ -1,0 +1,1 @@
+A triplestore meaning a table of assertions of the form (X, is_a, Y) or some other semantic relationship. It’s a surprisingly general way to structure knowledge in many domains. I recall Freebase got pretty far with this a while back. https://en.wikipedia.org/wiki/Triplestore

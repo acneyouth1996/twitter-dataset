@@ -1,0 +1,1 @@
+The road to product market fit can be summarized as: - Ship new code - Have users try the product - Frantically fix bugs - Ask for brutal feedback - Monitor use till they churn - Learn why & write it down - Prioritize what prevents churn - Write code - Find new users - Repeat

@@ -1,0 +1,1 @@
+Actually, Jason did a postdoc in my lab because I was very intrigued by his PhD work and thought it was very promising. But he and I discovered a fatal flaw in the proposal. So he switched to another research topic (semi-supervised sparse auto-encoders)

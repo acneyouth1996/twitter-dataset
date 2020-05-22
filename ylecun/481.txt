@@ -1,0 +1,1 @@
+In my opinion, there is A(G)I without learning. Right now, there no learning (and no inference) without optimization. You can do optimization without gradients, but it's very, very slow. Can you propose a learning paradigm not based on optimization?

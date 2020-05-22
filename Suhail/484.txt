@@ -1,0 +1,1 @@
+Every time we think we have unit economics somewhat stabilized, NVIDIA’s extraordinarily complex feature gating / complex licensing throws us a curve ball. There’s really something inefficient here—one of those moments where you realize someone could build a better company here.

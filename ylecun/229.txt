@@ -1,0 +1,1 @@
+Gradient-based methods compute (or estimate) the gradient directly, while grad-free (0th order) methods like MC, simulated annealing, population-based/evolutionary methods estimate it indirectly through perturbations. The former is considerably more efficient, when applicable.

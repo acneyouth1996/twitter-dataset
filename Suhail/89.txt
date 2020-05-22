@@ -1,0 +1,1 @@
+Yeah, I picked a medium sized project to build. I figured if I could achieve that & get over the learning curve then I can contribute even faster to more browser UX ideas I'll have. I always API source docs first. It's been a bit zany to switch between writing C++ and CSS!

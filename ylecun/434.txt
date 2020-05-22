@@ -1,0 +1,1 @@
+A detection result should always have at least two numbers: precision/recall, type I/type II, selectivity/specificity, for at least one reasonable operating point. Or else give the whole damn ROC curve.

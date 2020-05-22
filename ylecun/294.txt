@@ -1,0 +1,1 @@
+Except that: 1. DL-style autodiff is more general than the adjoint state method, 2. The steps/layers aren't necessarily time steps, 3. The objective is an average over samples/trials, 4. The parameters (weights) are persistent (unlike control sequences).

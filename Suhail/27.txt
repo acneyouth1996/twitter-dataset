@@ -1,0 +1,1 @@
+Ah, that's interesting. I am curious if apps would be substantially different if they had more local storage. That's something we can easily solve with Mighty down the road. We could easily provide many gigs of free, local web app storage.

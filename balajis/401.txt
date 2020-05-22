@@ -1,0 +1,1 @@
+Great point. This is a level up over the current approach of syncing phone & laptop by having the former scan a QR code on the latter. ...though you might make AR pasting even more robust by surrounding edges of laptop screen with QR code trim to detect position & orientation.

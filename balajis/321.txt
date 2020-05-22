@@ -1,0 +1,1 @@
+This is why contact tracing is important even when the virus is at scale. Tracing a subset of (say) 1000 cases per day gives us invaluable information on potential mechanisms of spread.

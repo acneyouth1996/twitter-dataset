@@ -1,0 +1,1 @@
+Would like to start from a good place from the get-go if we can. If you can, keep in mind: we're a small team that has to rapidly test our ideas too so we can't afford to build all the same tooling of a mature organization.

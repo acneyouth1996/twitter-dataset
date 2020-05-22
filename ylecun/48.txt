@@ -1,0 +1,1 @@
+Whenever I'd meet Leo Breiman, he would say (referring to ConvNets) "I'm always surprised by the huge size of your models. In statistics, big models have 100 parameters. Yours have 10s of thousands. Yet they don't overfit! Why?"

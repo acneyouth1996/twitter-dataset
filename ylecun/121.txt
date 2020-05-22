@@ -1,0 +1,1 @@
+But that's exactly what Self-supervised Learning is: using part of the input as target for supervised learning. The difficulty is how to handle the fact that multiple predictions are potentially correct, not a single one as in most traditional supervised learning scenarios.

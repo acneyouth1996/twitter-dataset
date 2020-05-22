@@ -1,0 +1,1 @@
+I do want to see a preprint server that adopts GitHub & Bitbucket as their backends, and sets up Jupyter, Sweave, org-babel, or something like that as a reproducible research build framework. Then peer reviews are actual pull requests, rather than comments on a static PDF.

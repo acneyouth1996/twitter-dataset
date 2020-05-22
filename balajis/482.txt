@@ -1,0 +1,1 @@
+The measure of whether your state's virus strategy is succeeding is if the reproduction number stays below 1. If you can do that while reopening, you're winning. @kevin's new site http://rt.live shows the key graph: trends in reproduction number over time for US states.

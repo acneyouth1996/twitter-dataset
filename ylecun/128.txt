@@ -1,0 +1,1 @@
+2nd order methods are definitely gradient-based. I don't know of many optimization methods that efficiently use the Hessian without also efficiently computing the gradient. [Note: methods that inefficiently estimate the gradient, e.g. by perturbation, are *not* gradient-based]

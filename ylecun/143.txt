@@ -1,0 +1,1 @@
+Well, we had a compiler for neural nets in 1992. The 1994 version could take Lisp code (which included neural net specifications) and spit out self-contained C source. That's how we built our check recognition systems. This was eventually open sourced in 2002. Look up Lush.

@@ -1,0 +1,1 @@
+If we are talking about Facebook and Google, it's all deep learning (filtering, ranking, recommendation, translation, speech, NLP, image, video....). You would be hard pressed to find any trace of symbolic AI in any operational code.

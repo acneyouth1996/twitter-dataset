@@ -1,0 +1,1 @@
+Hey folks, interested in working (happy to pay) with someone who has spent a lot of time with low-level macOS graphics and/or understands Metal. We are interested in taking H.264 encoded data, rendering it, filtering it, & doing so at the lowest CPU utilization. Know anyone?

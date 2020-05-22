@@ -1,0 +1,1 @@
+Algorithms are no more destructive than, say, the electronic circuit of a TV. What can be destructive is how some people exploit these things. Preventing damaging exploits is obviously a good thing. But predicting and preventing them before they happen is hard.
